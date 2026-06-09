@@ -1,5 +1,7 @@
 # AI-Powered Smart Interview Preparation Platform
 
+<img width="1919" height="1090" alt="image" src="https://github.com/user-attachments/assets/75052ed0-68e2-4477-ab07-c45d74f4cb92" />
+
 ## Abstract
 This project is an AI-driven web application designed to help students prepare for technical interviews. It provides a platform where users can select domains (DSA, MERN, Java, etc.), practice with AI-generated questions, and receive real-time evaluations on their answers. The system leverages OpenAI/LLM models to analyze responses and offer constructive feedback, highlighting strengths and areas for improvement.
 
